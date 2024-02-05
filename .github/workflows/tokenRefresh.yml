@@ -5,7 +5,7 @@ name: Token Refresh
 
 on:
   schedule:
-    - cron: '52 19 * * *'
+    - cron: '00 20 * * *'
 jobs:
   build:
 
